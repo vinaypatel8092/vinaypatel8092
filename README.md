@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning and working with **Node.js to build scalable backend applications.**
 
-- 📫 How to reach me **vinaypatel7198@gmail.com**
+- 📫 How to reach me **patelvinay1023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
